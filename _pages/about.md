@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: This is me!
 
 profile:
   align: right
